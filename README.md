@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 ## Hi, I'm Celine! 👋
 ### Data Science student | Aspiring Data Scientist
 
